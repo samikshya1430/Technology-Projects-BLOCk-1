@@ -12,14 +12,14 @@ images/raspberry-pi/labelled-pi-board.jpg
 
 | Component | Function |
 |-----------|----------|
-| SoC | |
-| GPIO | |
+| SoC |It act as the central brain of system by combining the CPU, GPU and memory controller. |
+| GPIO |Connect and control the external electronic components |
 | USB | |
 | HDMI | |
 | Power | |
 | microSD | |
 | Network | |
-| Wireless | |
+| Wireless |To transfer data, voice or media between two or more devices using electromagnetic or radio waves instead of physical cables. |
 
 ---
 ## Reflection
