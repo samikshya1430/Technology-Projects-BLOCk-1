@@ -14,11 +14,11 @@ images/raspberry-pi/labelled-pi-board.jpg
 |-----------|----------|
 | SoC |It act as the central brain of system by combining the CPU, GPU and memory controller. |
 | GPIO |Connect and control the external electronic components |
-| USB | |
-| HDMI | |
-| Power | |
-| microSD | |
-| Network | |
+| USB |Supplying power and transferring high speed data. |
+| HDMI |Transmit high quality digital video and multi channel audio signals |
+| Power |Receive electrical energy from an external supply, regulate voltage and distribute to all internal and other component |
+| microSD |It serves as the computer's primary hard drive |
+| Network |Allow the board to communicate with other computers, acess the internet and transfer files.|
 | Wireless |To transfer data, voice or media between two or more devices using electromagnetic or radio waves instead of physical cables. |
 
 ---
