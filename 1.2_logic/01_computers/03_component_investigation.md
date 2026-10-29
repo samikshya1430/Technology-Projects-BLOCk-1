@@ -1,5 +1,19 @@
 # Part 3 – Component Investigation
 Photograph and investigate the following components.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/eb1aafd4-c149-4394-97e9-005a5cb5a242" />
+<img width="515" height="388" alt="image" src="https://github.com/user-attachments/assets/522be9ec-1c8e-41fa-ae3d-3b06cfd9095a" />
+<img width="250" height="130" alt="image" src="https://github.com/user-attachments/assets/f2369a49-3a69-4fdf-a075-aa70993b786d" />
+<img width="250" height="167" alt="image" src="https://github.com/user-attachments/assets/d2eeb0d5-76d7-4b45-8029-66f95daa5f41" />
+<img width="479" height="417" alt="image" src="https://github.com/user-attachments/assets/afd6b065-b813-43c5-b168-42f5a383e39f" />
+<img width="510" height="392" alt="image" src="https://github.com/user-attachments/assets/3575a772-87d9-4e00-ad70-8233dee3cf43" />
+<img width="1280" height="854" alt="image" src="https://github.com/user-attachments/assets/8ac674a6-2f5c-4df3-86a0-4e4209dbfb74" />
+
+
+
+
+
+
+
 Images should be stored in:
 ```
 images/components/
